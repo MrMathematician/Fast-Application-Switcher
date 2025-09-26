@@ -10,9 +10,9 @@ mode.
 Before you proceed to installation, please note that this only supports X11 applications
 and will work only in desktop environments.
 
-1- Open the `include` directory
-2- run `chmod +x install.sh`
-3- run the `install.sh` script
+1. Open the `include` directory
+2. run `chmod +x install.sh`
+3. run the `install.sh` script
 
 ## Further Description 
 Using `Alt + Tab` creates this pop up window that obstructs your workflow while also not maintining 
