@@ -22,6 +22,6 @@ can swiftly cycle between windows while maintaing their same stacking order. Thi
 supported by most desktop environments, and this is what this project aims to resolve.
 
 ## Notes
-1- You can easily change the `Alt`, `J` and `K` keys to any keys of your liking in the main.cpp in the control loop.
+1. You can easily change the `Alt`, `J` and `K` keys to any keys of your liking in the main.cpp in the control loop.
 of using a simple desktop environment.
-2- This only works on X11.
+2. This only works on X11.
