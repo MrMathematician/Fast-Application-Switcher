@@ -1,4 +1,1 @@
 build/*
-
-!build/CMakeLists.txt
-!build/install.sh

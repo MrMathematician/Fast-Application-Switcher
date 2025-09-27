@@ -8,11 +8,10 @@ mode.
 
 ## Installation
 Before you proceed to installation, please note that this only supports X11 applications
-and will work only in desktop environments.
+and will work only in desktop environments such as xfce4, Gnome, KDE.
 
-1. Open the `include` directory
-2. run `chmod +x install.sh`
-3. run the `install.sh` script
+1. run `chmod +x install.sh`
+2. run the `install.sh` script
 
 ## Further Description 
 Using `Alt + Tab` creates this pop up window that obstructs your workflow while also not maintining 
@@ -22,6 +21,5 @@ can swiftly cycle between windows while maintaing their same stacking order. Thi
 supported by most desktop environments, and this is what this project aims to resolve.
 
 ## Notes
-1. You can easily change the `Alt`, `J` and `K` keys to any keys of your liking in the main.cpp in the control loop.
+You can easily change the `Alt`, `J` and `K` keys to any keys of your liking in the main.cpp in the control loop.
 of using a simple desktop environment.
-2. This only works on X11.
